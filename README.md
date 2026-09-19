@@ -1,5 +1,3 @@
-# MiniMax-H3-Ref2V-MV
-ComfyUI workflow for MiniMax H3 Reference-to-Video MV generation
 # MiniMax H3 Ref2V MV Workflow
 
 ComfyUI workflow for generating multi-clip music videos with
